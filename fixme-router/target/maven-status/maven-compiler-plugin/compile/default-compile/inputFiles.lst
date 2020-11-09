@@ -1,0 +1,11 @@
+/home/yaqwaqwa/Desktop/WTC/fixme/fixme-router/src/main/java/com/yaqwaqwa/fixme/router/controller/RouterController.java
+/home/yaqwaqwa/Desktop/WTC/fixme/fixme-router/src/main/java/com/yaqwaqwa/fixme/router/models/ClientInfo.java
+/home/yaqwaqwa/Desktop/WTC/fixme/fixme-router/src/main/java/com/yaqwaqwa/fixme/router/App.java
+/home/yaqwaqwa/Desktop/WTC/fixme/fixme-router/src/main/java/com/yaqwaqwa/fixme/router/helpers/ValidateChecksum.java
+/home/yaqwaqwa/Desktop/WTC/fixme/fixme-router/src/main/java/com/yaqwaqwa/fixme/router/helpers/InputOutputHandler.java
+/home/yaqwaqwa/Desktop/WTC/fixme/fixme-router/src/main/java/com/yaqwaqwa/fixme/router/helpers/Servers.java
+/home/yaqwaqwa/Desktop/WTC/fixme/fixme-router/src/main/java/com/yaqwaqwa/fixme/router/helpers/Action.java
+/home/yaqwaqwa/Desktop/WTC/fixme/fixme-router/src/main/java/com/yaqwaqwa/fixme/router/helpers/ForwardMessage.java
+/home/yaqwaqwa/Desktop/WTC/fixme/fixme-router/src/main/java/com/yaqwaqwa/fixme/router/helpers/ConnectionHandler.java
+/home/yaqwaqwa/Desktop/WTC/fixme/fixme-router/src/main/java/com/yaqwaqwa/fixme/router/helpers/IdentifyDestination.java
+/home/yaqwaqwa/Desktop/WTC/fixme/fixme-router/src/main/java/com/yaqwaqwa/fixme/router/helpers/Router.java
